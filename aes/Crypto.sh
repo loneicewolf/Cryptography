@@ -1,4 +1,3 @@
-cat Crypto.sh 
 echo "Encryption"
 printf "\n"
 echo "Please enter a password:"
